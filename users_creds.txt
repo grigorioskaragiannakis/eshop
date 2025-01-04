@@ -1,0 +1,4 @@
+admin1;admin1surname;admin1;CxTVAaWURCoBxoWVQbyz6BZNGD0yk3uFGDVEL2nVyU4=;ADMIN
+admin2;admin2surname;admin2;bPYV1byqx3g1Ko8fM2DSPwLzTsGC4lmJf9bOSF14cNQ=;ADMIN
+user1;user1surname;user1;CxTVAaWURCoBxoWVQbyz6BZNGD0yk3uFGDVEL2nVyU4=;USER
+user2;user2surname;user2;bPYV1byqx3g1Ko8fM2DSPwLzTsGC4lmJf9bOSF14cNQ=;USER
